@@ -12,4 +12,3 @@ const groceriesList = () => {
   }
   return res;
 };
-
