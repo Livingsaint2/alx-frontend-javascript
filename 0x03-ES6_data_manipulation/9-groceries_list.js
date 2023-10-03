@@ -12,3 +12,5 @@ const groceriesList = () => {
   }
   return res;
 };
+
+export default groceriesList;
